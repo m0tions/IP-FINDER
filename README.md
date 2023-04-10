@@ -30,6 +30,6 @@ Obtain your API key: Once you have generated the API key, copy it and keep it so
 
 Integrate the API key into your application: Finally, you need to integrate the API key into your application by passing it as a parameter with each API request. The exact way to do this depends on the programming language and framework you are using.)
 
-![[https://user-images.githubusercontent.com/128306016/231017689-2db81745-548a-4fe4-8ac6-6d7c4d8ea52c.png](https://media.discordapp.net/attachments/1088844235756814336/1095127038660198410/IPIMAGE.png)](image_url)
+![https://media.discordapp.net/attachments/1088844235756814336/1095127038660198410/IPIMAGE.png](image_url)
 
 
