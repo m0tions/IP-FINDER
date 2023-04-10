@@ -1,7 +1,7 @@
 import tkinter as tk
 import requests
 
-#created by m0tion#0001 on discord
+#created by m0tion 0001 on discord
 
 def get_location():
     ip_address = ip_entry.get()
